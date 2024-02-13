@@ -1,0 +1,11 @@
+ROMEO
+	I love you, Juliet
+	I love you so much
+
+JULIET
+	I love you, Romeo!
+	I love you so much!
+
+ROMEO
+	I love you, Juliet
+	I love you so much

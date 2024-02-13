@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="turistautak.openstreetmap.hu" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<metadata>
+		<name>1701559024j1kn útvonal</name>
+		<desc>1701559024j1kn útvonal</desc>
+	</metadata>
+<trk>
+  <name>utv</name>
+<trkseg><trkpt lat="47.775834" lon="18.928029">
+        <ele>465.75</ele>
+      </trkpt>
+<trkpt lat="47.776009" lon="18.927985">
+        <ele>466.2</ele>
+      </trkpt>
+<trkpt lat="47.776194" lon="18.928013">
+        <ele>462.8</ele>
+      </trkpt>
+<trkpt lat="47.776325" lon="18.928115">
+        <ele>456.6</ele>
+      </trkpt>
+<trkpt lat="47.776580" lon="18.928639">
+        <ele>454</ele>
+      </trkpt>
+<trkpt lat="47.777715" lon="18.929534">
+        <ele>454.8</ele>
+      </trkpt>
+<trkpt lat="47.777807" lon="18.929723">
+        <ele>455.6</ele>
+      </trkpt>
+<trkpt lat="47.777987" lon="18.929891">
+        <ele>461.6</ele>
+      </trkpt>
+<trkpt lat="47.779198" lon="18.930560">
+        <ele>469.6</ele>
+      </trkpt>
+<trkpt lat="47.779543" lon="18.930595">
+        <ele>471.6</ele>
+      </trkpt>
+<trkpt lat="47.780110" lon="18.930470">
+        <ele>469.6</ele>
+      </trkpt>
+<trkpt lat="47.780670" lon="18.930674">
+        <ele>466.8</ele>
+      </trkpt>
+<trkpt lat="47.781176" lon="18.931491">
+        <ele>463.4</ele>
+      </trkpt>
+<trkpt lat="47.781514" lon="18.932036">
+        <ele>460.8</ele>
+      </trkpt>
+<trkpt lat="47.782002" lon="18.932199">
+        <ele>462.2</ele>
+      </trkpt>
+<trkpt lat="47.782502" lon="18.932334">
+        <ele>464.6</ele>
+      </trkpt>
+<trkpt lat="47.782858" lon="18.932601">
+        <ele>467.8</ele>
+      </trkpt>
+<trkpt lat="47.783409" lon="18.932747">
+        <ele>470.4</ele>
+      </trkpt>
+<trkpt lat="47.783840" lon="18.933113">
+        <ele>470.4</ele>
+      </trkpt>
+<trkpt lat="47.784026" lon="18.933408">
+        <ele>467.2</ele>
+      </trkpt>
+<trkpt lat="47.784160" lon="18.933698">
+        <ele>463</ele>
+      </trkpt>
+<trkpt lat="47.784453" lon="18.933784">
+        <ele>458.8</ele>
+      </trkpt>
+<trkpt lat="47.784638" lon="18.933922">
+        <ele>449.6</ele>
+      </trkpt>
+<trkpt lat="47.784783" lon="18.933860">
+        <ele>437.8</ele>
+      </trkpt>
+<trkpt lat="47.785393" lon="18.934138">
+        <ele>427.6</ele>
+      </trkpt>
+<trkpt lat="47.786017" lon="18.933893">
+        <ele>413.6</ele>
+      </trkpt>
+<trkpt lat="47.786411" lon="18.933897">
+        <ele>397.2</ele>
+      </trkpt>
+<trkpt lat="47.786804" lon="18.934132">
+        <ele>385.8</ele>
+      </trkpt>
+<trkpt lat="47.787331" lon="18.934207">
+        <ele>379.6</ele>
+      </trkpt>
+<trkpt lat="47.787927" lon="18.934393">
+        <ele>372.2</ele>
+      </trkpt>
+<trkpt lat="47.788155" lon="18.934356">
+        <ele>368.6</ele>
+      </trkpt>
+<trkpt lat="47.788355" lon="18.934500">
+        <ele>367.2</ele>
+      </trkpt>
+<trkpt lat="47.788429" lon="18.934586">
+        <ele>365.8</ele>
+      </trkpt>
+<trkpt lat="47.788678" lon="18.934853">
+        <ele>364.5</ele>
+      </trkpt>
+<trkpt lat="47.789228" lon="18.935435">
+        <ele>364.33333333333</ele>
+      </trkpt>
+<trkpt lat="47.789410" lon="18.935584">
+        <ele>364</ele>
+      </trkpt>
+</trkseg>
+</trk>
+</gpx>
+
+
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Routino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>K&#xE9;sz&#xED;t&#x0151; : Routino - http://www.routino.org/</desc>
+<copyright author="Openstreetmap adatok alapj&#xE1;n http://www.openstreetmap.org/">
+<license>http://www.openstreetmap.org/copyright</license>
+</copyright>
+</metadata>
+<rte>
+<name>Legr&#xF6;videbb route</name>
+<desc>Legr&#xF6;videbb &#xFA;tvonal a kezd&#x0151; &#xE9;s utols&#xF3; pont k&#xF6;z&#xF6;tt</desc>
+<rtept lat="47.775834" lon="18.928029"><name>WAYPT01</name>
+<desc>&#xE9;szak on 'Kittenberger &#xFA;t' for 0.019 km, 0.3 min</desc></rtept>
+<rtept lat="47.776009" lon="18.927985"><name>Utaz&#xE1;s001</name>
+<desc>&#xE9;szak on 'Kittenberger &#xFA;t' for 0.224 km, 3.4 min</desc></rtept>
+<rtept lat="47.777715" lon="18.929534"><name>Utaz&#xE1;s002</name>
+<desc>&#xE9;szakkelet on 'gyalog&#xFA;t' for 0.017 km, 0.3 min</desc></rtept>
+<rtept lat="47.777807" lon="18.929723"><name>Utaz&#xE1;s003</name>
+<desc>&#xE9;szakkelet on 'gyalog&#xFA;t' for 0.411 km, 6.2 min</desc></rtept>
+<rtept lat="47.781176" lon="18.931491"><name>Utaz&#xE1;s004</name>
+<desc>&#xE9;szakkelet on 'f&#xF6;ld&#xFA;t' for 0.110 km, 1.7 min</desc></rtept>
+<rtept lat="47.782002" lon="18.932199"><name>Utaz&#xE1;s005</name>
+<desc>&#xE9;szak on 'gyalog&#xFA;t' for 0.480 km, 7.2 min</desc></rtept>
+<rtept lat="47.786017" lon="18.933893"><name>Utaz&#xE1;s006</name>
+<desc>&#xE9;szak on 'T&#xF6;r&#xF6;kmez&#x0151;i tan&#xF6;sv&#xE9;ny' for 0.239 km, 3.6 min</desc></rtept>
+<rtept lat="47.788155" lon="18.934356"><name>Utaz&#xE1;s007</name>
+<desc>&#xE9;szakkelet on 'Hegyestet&#x0151;i &#xFA;t' for 0.023 km, 0.3 min</desc></rtept>
+<rtept lat="47.788355" lon="18.934500"><name>Utaz&#xE1;s008</name>
+<desc>&#xE9;szakkelet on 'Hegyestet&#x0151;i &#xFA;t' for 0.010 km, 0.2 min</desc></rtept>
+<rtept lat="47.788429" lon="18.934586"><name>Utaz&#xE1;s009</name>
+<desc>&#xE9;szakkelet on 'Hegyestet&#x0151;i &#xFA;t' for 0.033 km, 0.5 min</desc></rtept>
+<rtept lat="47.788678" lon="18.934853"><name>Utaz&#xE1;s010</name>
+<desc>&#xE9;szakkelet on 'T&#xF6;r&#xF6;kmez&#x0151;i tan&#xF6;sv&#xE9;ny' for 0.097 km, 1.5 min</desc></rtept>
+<rtept lat="47.789410" lon="18.935584"><name>WAYPT02</name>
+<desc>Az eg&#xE9;sz &#xFA;t 1.7 km, 25 perc</desc></rtept>
+</rte>
+</gpx>

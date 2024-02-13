@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Routino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>K&#xE9;sz&#xED;t&#x0151; : Routino - http://www.routino.org/</desc>
+<copyright author="Openstreetmap adatok alapj&#xE1;n http://www.openstreetmap.org/">
+<license>http://www.openstreetmap.org/copyright</license>
+</copyright>
+</metadata>
+<rte>
+<name>Legr&#xF6;videbb route</name>
+<desc>Legr&#xF6;videbb &#xFA;tvonal a kezd&#x0151; &#xE9;s utols&#xF3; pont k&#xF6;z&#xF6;tt</desc>
+<rtept lat="47.800479" lon="18.911594"><name>WAYPT01</name>
+<desc>d&#xE9;lkelet on 'Sz&#x0151;nyi Istv&#xE1;n &#xFA;t' for 0.082 km, 1.2 min</desc></rtept>
+<rtept lat="47.799791" lon="18.912025"><name>Utaz&#xE1;s001</name>
+<desc>d&#xE9;lkelet on 'K&#xE1;lv&#xE1;ria &#xFA;t' for 0.108 km, 1.6 min</desc></rtept>
+<rtept lat="47.799261" lon="18.913199"><name>Utaz&#xE1;s002</name>
+<desc>kelet on 'gyalog&#xFA;t' for 0.098 km, 1.5 min</desc></rtept>
+<rtept lat="47.799166" lon="18.914526"><name>Utaz&#xE1;s003</name>
+<desc>d&#xE9;lkelet on 'gyalog&#xFA;t' for 0.311 km, 4.7 min</desc></rtept>
+<rtept lat="47.797106" lon="18.917409"><name>Utaz&#xE1;s004</name>
+<desc>d&#xE9;lkelet on 'M&#xE1;lna-v&#xF6;lgy' for 0.652 km, 9.8 min</desc></rtept>
+<rtept lat="47.793806" lon="18.923796"><name>Utaz&#xE1;s005</name>
+<desc>kelet on 'f&#xF6;ld&#xFA;t' for 0.136 km, 2.0 min</desc></rtept>
+<rtept lat="47.793211" lon="18.925389"><name>Utaz&#xE1;s006</name>
+<desc>d&#xE9;lkelet on 'f&#xF6;ld&#xFA;t' for 0.056 km, 0.8 min</desc></rtept>
+<rtept lat="47.792743" lon="18.925634"><name>Utaz&#xE1;s007</name>
+<desc>d&#xE9;l on 'gyalog&#xFA;t' for 0.493 km, 7.4 min</desc></rtept>
+<rtept lat="47.790817" lon="18.930405"><name>Utaz&#xE1;s008</name>
+<desc>kelet on 'f&#xF6;ld&#xFA;t' for 0.403 km, 6.0 min</desc></rtept>
+<rtept lat="47.789444" lon="18.935350"><name>Utaz&#xE1;s009</name>
+<desc>d&#xE9;l on 'gyalog&#xFA;t' for 0.024 km, 0.4 min</desc></rtept>
+<rtept lat="47.789228" lon="18.935435"><name>Utaz&#xE1;s010</name>
+<desc>d&#xE9;lnyugat on 'T&#xF6;r&#xF6;kmez&#x0151;i tan&#xF6;sv&#xE9;ny' for 0.074 km, 1.1 min</desc></rtept>
+<rtept lat="47.788678" lon="18.934853"><name>Utaz&#xE1;s011</name>
+<desc>d&#xE9;lnyugat on 'Hegyestet&#x0151;i &#xFA;t' for 0.033 km, 0.5 min</desc></rtept>
+<rtept lat="47.788429" lon="18.934586"><name>Utaz&#xE1;s012</name>
+<desc>d&#xE9;lnyugat on 'Hegyestet&#x0151;i &#xFA;t' for 0.010 km, 0.2 min</desc></rtept>
+<rtept lat="47.788355" lon="18.934500"><name>Utaz&#xE1;s013</name>
+<desc>d&#xE9;lnyugat on 'Hegyestet&#x0151;i &#xFA;t' for 0.023 km, 0.3 min</desc></rtept>
+<rtept lat="47.788155" lon="18.934356"><name>Utaz&#xE1;s014</name>
+<desc>d&#xE9;l on 'T&#xF6;r&#xF6;kmez&#x0151;i tan&#xF6;sv&#xE9;ny' for 0.239 km, 3.6 min</desc></rtept>
+<rtept lat="47.786017" lon="18.933893"><name>Utaz&#xE1;s015</name>
+<desc>d&#xE9;l on 'T&#xF6;r&#xF6;kmez&#x0151;i tan&#xF6;sv&#xE9;ny' for 0.480 km, 7.2 min</desc></rtept>
+<rtept lat="47.782002" lon="18.932199"><name>Utaz&#xE1;s016</name>
+<desc>d&#xE9;l on 'f&#xF6;ld&#xFA;t' for 0.110 km, 1.7 min</desc></rtept>
+<rtept lat="47.781176" lon="18.931491"><name>Utaz&#xE1;s017</name>
+<desc>d&#xE9;lnyugat on 'gyalog&#xFA;t' for 0.411 km, 6.2 min</desc></rtept>
+<rtept lat="47.777807" lon="18.929723"><name>Utaz&#xE1;s018</name>
+<desc>d&#xE9;lnyugat on 'gyalog&#xFA;t' for 0.017 km, 0.3 min</desc></rtept>
+<rtept lat="47.777715" lon="18.929534"><name>Utaz&#xE1;s019</name>
+<desc>d&#xE9;lnyugat on 'Kittenberger &#xFA;t' for 0.224 km, 3.4 min</desc></rtept>
+<rtept lat="47.776009" lon="18.927985"><name>Utaz&#xE1;s020</name>
+<desc>d&#xE9;l on 'Kittenberger &#xFA;t' for 0.142 km, 2.1 min</desc></rtept>
+<rtept lat="47.774840" lon="18.927835"><name>Utaz&#xE1;s021</name>
+<desc>d&#xE9;l on 'gyalog&#xFA;t' for 0.011 km, 0.2 min</desc></rtept>
+<rtept lat="47.774731" lon="18.927883"><name>Utaz&#xE1;s022</name>
+<desc>kelet on 'Kittenberger &#xFA;t' for 0.576 km, 8.6 min</desc></rtept>
+<rtept lat="47.777099" lon="18.933424"><name>Utaz&#xE1;s023</name>
+<desc>d&#xE9;lkelet on 'Kittenberger &#xFA;t' for 0.197 km, 3.0 min</desc></rtept>
+<rtept lat="47.776182" lon="18.935684"><name>Utaz&#xE1;s024</name>
+<desc>d&#xE9;lkelet on 'Kittenberger &#xFA;t' for 0.207 km, 3.1 min</desc></rtept>
+<rtept lat="47.775199" lon="18.938062"><name>Utaz&#xE1;s025</name>
+<desc>&#xE9;szakkelet on 'Kittenberger &#xFA;t' for 0.328 km, 4.9 min</desc></rtept>
+<rtept lat="47.777723" lon="18.939441"><name>Utaz&#xE1;s026</name>
+<desc>&#xE9;szakkelet on 'Panor&#xE1;ma &#xFA;t' for 0.041 km, 0.6 min</desc></rtept>
+<rtept lat="47.778061" lon="18.939706"><name>Utaz&#xE1;s027</name>
+<desc>&#xE9;szak on 'Panor&#xE1;ma &#xFA;t' for 0.058 km, 0.9 min</desc></rtept>
+<rtept lat="47.778547" lon="18.940006"><name>Utaz&#xE1;s028</name>
+<desc>&#xE9;szakkelet on 'Panor&#xE1;ma &#xFA;t' for 0.191 km, 2.9 min</desc></rtept>
+<rtept lat="47.780153" lon="18.941003"><name>Utaz&#xE1;s029</name>
+<desc>&#xE9;szakkelet on 'Panor&#xE1;ma &#xFA;t' for 0.186 km, 2.8 min</desc></rtept>
+<rtept lat="47.780614" lon="18.943394"><name>Utaz&#xE1;s030</name>
+<desc>d&#xE9;lkelet on 'Hegyalja utca' for 0.058 km, 0.9 min</desc></rtept>
+<rtept lat="47.780188" lon="18.943861"><name>Utaz&#xE1;s031</name>
+<desc>d&#xE9;l on 'gyalog&#xFA;t' for 0.300 km, 4.5 min</desc></rtept>
+<rtept lat="47.777922" lon="18.943614"><name>Utaz&#xE1;s032</name>
+<desc>d&#xE9;lkelet on 'gyalog&#xFA;t' for 0.155 km, 2.3 min</desc></rtept>
+<rtept lat="47.777125" lon="18.945315"><name>Utaz&#xE1;s033</name>
+<desc>d&#xE9;lkelet on 'Aranyos utca' for 0.235 km, 3.5 min</desc></rtept>
+<rtept lat="47.776755" lon="18.948383"><name>Utaz&#xE1;s034</name>
+<desc>kelet on 'Aranyos utca' for 0.044 km, 0.7 min</desc></rtept>
+<rtept lat="47.776634" lon="18.948957"><name>Utaz&#xE1;s035</name>
+<desc>&#xE9;szak on 'Aranyos utca (12128)' for 0.225 km, 3.4 min</desc></rtept>
+<rtept lat="47.778446" lon="18.950314"><name>WAYPT02</name>
+<desc>Az eg&#xE9;sz &#xFA;t 6.9 km, 104 perc</desc></rtept>
+</rte>
+</gpx>
