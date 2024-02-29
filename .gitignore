@@ -1,0 +1,4 @@
+# VSCode settings
+.vscode/*
+.vscode/tasks.json
+.vscode/launch.json
